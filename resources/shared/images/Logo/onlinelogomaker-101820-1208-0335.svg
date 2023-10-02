@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="264.8225" height="219.485" xml:space="preserve">
+<desc>Created with Fabric.js 1.6.0-rc.1</desc>
+<defs></defs>
+<g style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(10 10) scale(3.51 3.41)" >
+  <path d="M 0 6.283 c 0 0 30.096 2.932 32.55 14.6 C 35.004 32.55 24.173 57.5 24.173 57.5 s 7.061 -26.205 1.436 -35.899 C 19.985 11.908 0 6.283 0 6.283" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #00A2FF; fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+  <path d="M 68.75 6.283 c 0 0 -30.095 2.932 -32.548 14.6 C 33.749 32.55 44.58 57.5 44.58 57.5 s -7.063 -26.205 -1.438 -35.899 C 48.767 11.908 68.75 6.283 68.75 6.283" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #FF9200; fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+  <path d="M 40.818 6.404 c 0 3.536 -2.866 6.401 -6.402 6.401 c -3.533 0 -6.401 -2.865 -6.401 -6.401 S 30.883 0 34.416 0 C 37.952 0 40.818 2.868 40.818 6.404" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #FFC000; fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+</g>
+  <g transform="translate(75.03 122.78) scale(2.02 2.05)">
+   <text font-family="Cloister Black" font-size="40" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #27a7d6; fill-rule: nonzero; opacity: 1;" ><tspan x="-16.84" y="8.98" style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #27a7d6; fill-rule: ; opacity: 1;">D</tspan></text>
+ </g>
+  <g transform="translate(196.09 121.7) scale(2.14 1.78)">
+   <text font-family="Cloister Black" font-size="40" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #ff9a03; fill-rule: nonzero; opacity: 1;" ><tspan x="-15.12" y="8.98" style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #ff9a03; fill-rule: ; opacity: 1;">P</tspan></text>
+ </g>
+</svg>
