@@ -57,7 +57,7 @@
 				<div class="row">
 					<div class="col-lg-6 col-12">
 						<div class="single-image overlay">
-							<img src="<?php echo base_url('resources/shared/images/Akshar.jpg'); ?>" alt="">
+							<img src="<?php echo base_url('resources/shared/images/Vivek.jpg'); ?>" alt="">
 							<a href="https://www.youtube.com/watch?v=RgKAFK5djSk" class="btn video-popup mfp-fade"><i class="fa fa-play"></i></a>
 						</div>
 					</div>
@@ -151,10 +151,10 @@
 					<div class="col-lg-3 col-md-6 col-12">
 						<!-- Single Team -->
 						<div class="single-team">
-							<img src="<?php echo base_url('resources/shared/images/Nijal.jpg'); ?>" alt="">
+							<img src="<?php echo base_url('resources/shared/images/Axay.jpg'); ?>" alt="">
 							<div class="team-hover">
-								<h4>Nijal Prajapti<span></span></h4>
-								<p>She is a hard working Girl</p>
+								<h4>Axay Nayi<span></span></h4>
+								<p>He is a hard working Boy.</p>
 								<!-- <ul class="social">
 									<li><a href=""><i class="fa fa-facebook"></i></a></li>
 									<li><a href=""><i class="fa fa-twitter"></i></a></li>
@@ -185,9 +185,9 @@
 					<div class="col-lg-3 col-md-6 col-12">
 						<!-- Single Team -->
 						<div class="single-team">
-							<img src="<?php echo base_url('resources/shared/images/Akshar.jpg'); ?>" alt="">
+							<img src="<?php echo base_url('resources/shared/images/Vivek.jpg'); ?>" alt="">
 							<div class="team-hover">
-								<h4 class="name">Akshar Patel<span class="work">Creator</span></h4>
+								<h4 class="name">Vivek Sakhiya<span class="work">Creator</span></h4>
 								<p>He is the creator of this Web-Site</p>
 								<!-- <ul class="social">
 									<li><a href=""><i class="fa fa-facebook"></i></a></li>
