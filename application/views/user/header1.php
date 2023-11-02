@@ -7,32 +7,43 @@
 				<div class="col-lg-8 col-12">
 					<!-- Contact -->
 					<ul class="content">
-						<li>
-							<i class="fa fa-phone"></i>
-                                9773093691
+                        <li>
+                            <i class="fa fa-phone"></i>
+                                +1-(437)-262-2412
                                 <br>
                             <i class="fa fa-phone"></i>
-                                9727777688
-						</li>
-						<li>
-							<a href="mailto:info@yourdomain.com">
+                                +1-(437)-265-1345
+                                <br>
+                            <i class="fa fa-phone"></i>
+                                +1-(437)-231-8765
+                        </li>
+                        <li>
+                            <a href="mailto:info@yourdomain.com">
                                 <i class="fa fa-envelope-o"></i>
                                 kananikeyur26@gmail.com
                             </a>
                             <br>
                             <a href="mailto:info@yourdomain.com">
                                 <i class="fa fa-envelope-o"></i>
-                                akshar77588@gmail.com
+                                viveksakhiya7777777@gmail.com
                             </a>
-						</li>
-						<li>
-							<i class="fa fa-clock-o"></i>
-							Opening: 24/7
-							<br>
-							<i class="fa fa-clock-o"></i>
-							Contact Any Time
-						</li>
-					</ul>
+                            <br>
+                            <a href="mailto:info@yourdomain.com">
+                                <i class="fa fa-envelope-o"></i>
+                                axaynayi5567@gmail.com
+                            </a>
+                        </li>
+                        <li>
+                            <i class="fa fa-clock-o"></i>
+                            Opening: 24/7
+                            <br>
+                            <i class="fa fa-clock-o"></i>
+                            Contact Any Time
+                            <br>
+                            <i class="fa fa-clock-o"></i>
+                            Available To Support
+                        </li>
+                    </ul>
 					<!-- End Contact -->
 				</div>
 				<div class="col-lg-4 col-12">
@@ -69,12 +80,13 @@
 				<div class="col-lg-9 col-md-9 col-12">
 					<!-- Header Widget -->
 					<div class="header-widget">
-						<div class="single-widget">
+                        <div class="single-widget">
                             <i class="fa fa-phone"></i>
                             <h4>
                                 Call Now
-                                <span>(+91) 9773093691</span>
-                                <span>(+91) 9727777688</span>
+                                <span>+1-(437)-262-2412</span>
+                                <span>+1-(437)-265-1345</span>
+                                <span>+1-(437)-231-8765</span>
                             </h4>
                         </div>
                         <div class="single-widget">
@@ -85,19 +97,23 @@
                                     <span>kananikeyur26@gmail.com</span>
                                 </a>
                                 <a href="mailto:mailus@mail.com">
-                                    <span>akshar77588@gmail.com</span>
+                                    <span>viveksakhiya7777777@gmail.com</span>
+                                </a>
+                                <a href="mailto:mailus@mail.com">
+                                    <span>axaynayi5567@gmail.com</span>
                                 </a>
                             </h4>
                         </div>
                         <div class="single-widget">
                             <i class="fa fa-map-marker"></i>
-                           <h4>
+                            <h4>
                                 Our Location
-                                <span>25-Shantivan Society Part-2</span>
-                                <span>15-KesavNagar Society</span>
+                                <span>125-Charlotte Street</span>
+                                <span>125-Charlotte Street</span>
+                                <span>125-Charlotte Street</span>
                             </h4>
                         </div>
-					</div>
+                    </div>
 					<!--/ End Header Widget -->
 				</div>
 			</div>

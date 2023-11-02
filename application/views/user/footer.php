@@ -17,18 +17,18 @@
                         <ul class="list">
                             <li>
                                 <i class="fa fa-phone"></i>
-                                Phone: +91-9773093691 / +91-9727777688
+                                Phone: +1-(437)-262-2412 / +1-(437)-265-1345 / +1-(437)-231-8765
                             </li>
                             <li>
                                 <i class="fa fa-envelope"></i>
                                 Email: 
                                 <a href="mailto:info@youremail.com">
-                                    kananikeyur26@gmail.com / akshar77588@gmail.com
+                                    kananikeyur26@gmail.com / viveksakhiya7777777@gmail.com / axaynayi5567@gmail.com
                                 </a>
                             </li>
                             <li>
                                 <i class="fa fa-map-o"></i>
-                                25-Shantivan Society Part-2 / 15-KesavNagar Society
+                                125-Charlotte Street 
                             </li>
                         </ul>
                     </div>
@@ -110,11 +110,11 @@
                                 <!-- End Social -->
                                 <!-- Copyright -->
                                 <div class="copyright">
-                                    <p>© Copyright 2020-2021 <a href="">Disaster Preventor</a>. All Rights Reserved 
+                                    <p>Copyright © 2023-2024 <a href="">Disaster Preventor</a>. All Rights Reserved 
                                     <br>
                                     <b style="font-size: 20px;">
                                         <a href="">
-                                            Keyur & Akshar
+                                            Keyur & Vivek & Axay
                                         </a>
                                     </b>
                                     </p>
