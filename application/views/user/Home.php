@@ -429,7 +429,7 @@
 							<div class="col-lg-3 col-md-6 col-12">
 								<!-- Single Team -->
 								<div class="single-team">
-									<img src="<?php echo base_url('resources/shared/images/'.$e->CoverImage); ?>">
+									<img id="imgemp" src="<?php echo base_url('resources/shared/images/'.$e->CoverImage); ?>" >
 									<div class="team-hover">
 										<h4><?php echo $e->EmployeeName; ?><span><?php echo $e->CategoryName; ?></span></h4>
 										<p style="color: yellow;">
