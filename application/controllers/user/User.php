@@ -139,36 +139,79 @@ class User extends CI_Controller
 
 	public function send()
 	{
+		// $this->load->library('Email');
+		// $config = array(
+		//     'protocol' => 'smtp',
+		//     'smtp_host' => 'ssl://smtp.gmail.com',
+		//     'smtp_port' => 465,
+		//     'smtp_user' => 'communitysystem007@gmail.com',
+		//     'smtp_pass' => 'community@007'
+		//     //'mailtype'  => 'html', 
+		//     //'charset'   => 'iso-8859-1'
+		// );
+		// $email=$this->input->post('e');
+  		// $OTP=rand("100000","900000");
+		// $this->email->initialize($config);
+  			
+		// $this->email->from('communitysystem007@gmail.com', 'Community System');
+		// $this->email->to($email);  
+		// $this->email->subject('One Time Password');  
+		// $this->email->message($OTP,"is your Community System Verification Code.");
+		// $this->email->set_newline("\r\n");
+		// //print_r($email);
+		// $this->email->send();
+		// echo $OTP;
+		// // if ($this->email->send()) 
+		// // {
+		// // 	echo $OTP;
+		// // }
+		// // else
+		// // {
+		// // 	echo $this->email->print_debugger();		
+		// // }
+
+
 		$this->load->library('Email');
 		$config = array(
 		    'protocol' => 'smtp',
-		    'smtp_host' => 'ssl://smtp.gmail.com',
-		    'smtp_port' => 465,
-		    'smtp_user' => 'communitysystem007@gmail.com',
-		    'smtp_pass' => 'community@007'
-		    //'mailtype'  => 'html', 
-		    //'charset'   => 'iso-8859-1'
+		    'smtp_host' => 'smtp.gmail.com',
+		    'smtp_port' => 587,
+		    'smtp_user' => 'a1products0007@gmail.com',
+		    'smtp_pass' => 'fmeennrukopxtbpx',
+		    'mailtype'  => 'html', 
+		    'charset'   => 'UTF-8',
+		    'auth' => true
 		);
 		$email=$this->input->post('e');
   		$OTP=rand("100000","900000");
 		$this->email->initialize($config);
+		$this->load->library('email', $config);
   			
-		$this->email->from('communitysystem007@gmail.com', 'Community System');
+		$this->email->from('a1products0007@gmail.com', 'Disaster Preventor');
 		$this->email->to($email);  
 		$this->email->subject('One Time Password');  
-		$this->email->message($OTP,"is your Community System Verification Code.");
+		$this->email->message($OTP,"is your System Verification Code.");
 		$this->email->set_newline("\r\n");
-		//print_r($email);
-		$this->email->send();
-		echo $OTP;
-		// if ($this->email->send()) 
-		// {
-		// 	echo $OTP;
-		// }
-		// else
-		// {
-		// 	echo $this->email->print_debugger();		
-		// }
+		// echo $OTP;
+		if ($this->email->send()) 
+		{
+			echo $OTP;
+			//die();
+		}
+		else
+		{
+			echo $this->email->print_debugger();		
+		}
+		/*if ($this->email->send()) 
+		{
+			echo $OTP;
+			//die();
+		}
+		else
+		{
+			echo $this->email->print_debugger();		
+		}*/
+		//echo $OTP;
 	}
 
 	public function checkEmail()
