@@ -99,16 +99,7 @@
                     <div class="bottom-head">
                         <div class="row">
                             <div class="col-12">
-                                <!-- Social -->
-                                <!-- <ul class="social">
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-                                </ul> -->
-                                <!-- End Social -->
-                                <!-- Copyright -->
+                                
                                 <div class="copyright">
                                     <p>Copyright © 2023-2024 <a href="">Disaster Preventor</a>. All Rights Reserved 
                                     <br>
