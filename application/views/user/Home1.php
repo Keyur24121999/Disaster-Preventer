@@ -77,55 +77,7 @@
 		</section>
 		<!--/ End Slider Area -->
 		<br>
-		<!-- Features -->
-		<!-- <section class="our-features section">
-			<div class="container">
-				<div class="row">
-					<div class="col-12 wow zoomIn">
-						<div class="section-title">
-							<h2>We Provide <span>Educational</span> Solutions</h2>
-							<p>Mauris at varius orci. Vestibulum interdum felis eu nisl pulvinar, quis ultricies nibh. Sed ultricies ante vitae laoreet sagittis. In pellentesque viverra purus. Sed risus est, molestie nec hendrerit hendreri </p>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-lg-4 col-md-4 col-12 wow fadeInUp" data-wow-delay="0.4s">
-						
-						<div class="single-feature">
-							<div class="feature-head">
-								<img src="images/feature1.jpg" alt="#">
-							</div>
-							<h2>Online Courses Facilities</h2>
-							<p>Vivamus volutpat eros pulvinar velit laoreet, sit amet egestas erat dignissim</p>	
-						</div>
-						
-					</div>
-					<div class="col-lg-4 col-md-4 col-12 wow fadeInUp" data-wow-delay="0.6s">
-						
-						<div class="single-feature">
-							<div class="feature-head">
-								<img src="images/feature2.jpg" alt="#">
-							</div>
-							<h2>Student Admin Panel</h2>
-							<p>Vivamus volutpat eros pulvinar velit laoreet, sit amet egestas erat dignissim</p>	
-						</div>
-						
-					</div>
-					<div class="col-lg-4 col-md-4 col-12 wow fadeInUp" data-wow-delay="0.8s">
-						
-						<div class="single-feature">
-							<div class="feature-head">
-								<img src="images/feature3.jpg" alt="#">
-							</div>
-							<h2>Perfect Guidelines</h2>
-							<p>Vivamus volutpat eros pulvinar velit laoreet, sit amet egestas erat dignissim</p>	
-						</div>
-						
-					</div>
-				</div>
-			</div>
-		</section> -->
-		<!-- End Features -->
+		
 		
 		<!-- Enroll -->
 		<!-- <section class="enroll overlay section" data-stellar-background-ratio="0.5">
