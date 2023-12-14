@@ -25,21 +25,7 @@
 	
 		<?php include_once("header.php"); ?>
 		
-		<!-- Start Breadcrumbs -->
-		<!-- <section class="breadcrumbs overlay">
-			<div class="container">
-				<div class="row">
-					<div class="col-12">
-						<h2>Contact Pages</h2>
-						<ul class="bread-list">
-							<li><a href="index-2.html">Home<i class="fa fa-angle-right"></i></a></li>
-							<li class="active"><a href="contact.html">Contact</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</section> -->
-		<!--/ End Breadcrumbs -->
+		
 		
 		<!-- Contact Us -->
 		<section id="contact" class="contact section">
