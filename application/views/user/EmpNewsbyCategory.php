@@ -280,18 +280,6 @@
 										</div>
 										<img src="images/blog/blog5.jpg" alt="#">
 									</div>
-									<div class="blog-content">
-										<h4 class="blog-title"><a href="blog-single.html">Our teachers egestas erat dignissim</a></h4>
-										<div class="blog-info">
-											<a href="#"><i class="fa fa-user"></i>By: Admin</a>
-											<a href="#"><i class="fa fa-list"></i>Academic</a>
-											<a href="#"><i class="fa fa-heart-o"></i>33K</a>
-										</div>
-										<p>Vivamus volutpat eros pulvinar velit laoreet, sit amet egestas erat dignissim. Et harum quidem rerum facilis est et expedita distinctio</p>
-										<div class="button">
-											<a href="#" class="btn">Read More<i class="fa fa-angle-double-right"></i></a>
-										</div>
-									</div>
 								</div>
 							</div> -->
 							<!-- <div class="col-lg-6 col-12">
