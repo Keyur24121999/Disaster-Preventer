@@ -36,14 +36,7 @@
 								<img src="<?php echo base_url('resources/shared/images/'.$Employee[0]->CoverImage); ?>" alt="">
 							</div>
 							<div class="contact">
-								<!-- <ul class="social">
-									<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a href="#" class="active"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fa fa-paper-plane"></i></a></li>
-									<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-									<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-								</ul> -->
+								
 								<ul class="address">
 									<li><a href="mailto:<?php echo $Employee[0]->Email; ?>"><i class="fa fa-envelope"></i><?php echo $Employee[0]->Email; ?></a></li>
 									<li><i class="fa fa-phone"></i>+91-<?php echo $Employee[0]->Contact; ?></li>
